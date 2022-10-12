@@ -1,6 +1,6 @@
 title: "Reaearch Blog"
 author: "Alexandra Higley"
-description: "<b style=\"color: #f45;\ Graduate student at Penn State University >&lt;3</b>"
+description: "Graduate student at Penn State University <b style=\"color: #f45;\""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
