@@ -1,6 +1,6 @@
 title: "Reaearch Blog"
 author: "Alexandra Higley"
-description: "Graduate student at Penn State University"
+description: "Astrophysics PhD student at Penn State University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -19,6 +19,8 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
+#  - {url: "/alex.pdf", title: CV}
+  - {file: "blog.md"}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
