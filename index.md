@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Alex's Website"
 ---
 
 I'm a first year Astronomy and Astrophysics PhD student at Pennsylvania State University. For now, this website is mostly just for me 
